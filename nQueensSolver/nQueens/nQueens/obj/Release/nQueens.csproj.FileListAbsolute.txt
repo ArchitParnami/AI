@@ -1,0 +1,14 @@
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\bin\Release\nQueens.exe.config
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\bin\Release\nQueens.exe
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\bin\Release\nQueens.pdb
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\obj\Release\nQueens.AboutBox.resources
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\obj\Release\nQueens.MainForm.resources
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\obj\Release\nQueens.Properties.Resources.resources
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\obj\Release\nQueens.csproj.GenerateResource.Cache
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\obj\Release\nQueens.exe
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\obj\Release\nQueens.pdb
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\obj\Release\nQueens.csprojResolveAssemblyReference.cache
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\bin\Release\nQueens.exe.manifest
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\bin\Release\nQueens.application
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\obj\Release\nQueens.exe.manifest
+I:\DOCUMENTS\Programming\C#\nQueens\nQueens\obj\Release\nQueens.application
